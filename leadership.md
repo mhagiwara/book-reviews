@@ -16,4 +16,5 @@ Leadership, Mentoring
   - **"Energizers bring out the best in everyone around them, and our data show that having them in your network is a strong predictor of success over time"** vs "Roughly 90% of anxiety at work is created by 5% of one's network - the people who sap energy."
   - When you sign up for responsibilities outside work, try to choose ones that build on your expertise. (managing projects -> school committee)
   - Senior role: "Success, in either case, now depends on your ability to create an environment where other people can shine."
+  - Second time around we learn by teaching someone else to do what we do. It's this second-time-around learning that turns good professionals and managers into great ones.
   
