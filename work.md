@@ -1,0 +1,31 @@
+Work
+----
+
+*  Greg McKeown "Essentialism: The Disciplined Pursuit of Less" Crown Business, 2014.
+  - "only once you give yourself permission to stop trying to do it all, to stop saying yes to everyone, can you make your highest contribution towards the things that really matter."
+  - "Weniger aber besser." (German) -> "Less but btter"
+  - "Essentialism is not about how to get more things done; it's about how to get the right things done."
+  - "The undisciplined pursuit of more" was a key reason for failure of Wall Street great companies.
+  - "Almost everything is noise, and a very few things are exceptionally valuable."
+  - "The Disciplined Pursuit of Less" -> Explore, Eliminate, and Execute!
+  - "If you could do only one thing with your life right now, what would you do?"
+  - "learned helplessness" - experiment on German shepherds where dogs who took electric shocks didn't know they even have any choices
+  - Warren Buffet and his firm make relatively few investments and keep them for a long time. "Sometimes what you don't do is just as important as what you do."
+  - Instead of asking, "What do I have to give up?" they [essentialists] ask, "What do I want to go big on?"
+  - "Without great solitude no serious work is possible." - Pablo Picasso
+  - Bill Gates takes a regular week off (at Microsoft) simply to think and read.
+  - "Play doesn't just help us to explore what is essential. It is essential in and of itself."
+  - "The best asset we have for making a contribution to the world is ourselves."
+  - Bill Clinton: every major mistake he had made in his life had happened as a result of sleep deprivation.
+  - Violinist study: great violinists practice more than "good" ones do. They sleep longer, too
+  - "If the answer isn't a definite yes then it should be a no."
+  - "if there's one thing you are passionate about -- and that you can be best at -- you should do just that one thing."
+  - Make an "Essential intent" both inspirational and concrete. e.g., "To get everyone in the U.K. online by the end of 2012." How will we know when we have succeeded?
+  - "either we can say no and regret it for a few minutes, or we can say yes and regret it for days, weeks, months, or even years."
+  - Saying "no" gracefully doesn't have to mean using the word "no" e.g., "Let me check my calendar and get back to you", pause before speaking
+  - "Sunk-cost bias" -> tendency to keep investing on what already lost money
+  - "If I weren't already invested in this project, how much would I invest in it?" - pretent you don't own it yet (aka zero-based budgeting)
+  - Why adults are vulnerable to the sunk-cost bias? -> "don't waste" rule
+  - Simply add 50 percent buffer to the estimate to complete a task
+  - HBR article: two internal motivators: achievement and recognition for achievement
+  - A popular idea in Silicon Valley is "Done is better than perfect."
