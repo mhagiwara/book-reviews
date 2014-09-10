@@ -29,3 +29,26 @@ Work
   - Simply add 50 percent buffer to the estimate to complete a task
   - HBR article: two internal motivators: achievement and recognition for achievement
   - A popular idea in Silicon Valley is "Done is better than perfect."
+
+* Joel Spolsky "Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent" Apress, 2007
+  - "if you can eliminate one obstacle -- just one! -- you can double the number of people you hire."
+  - "design adds value faster than it adds cost"
+  - Research on CS 323, programming-intensive course: "The quality of the work and the amount of time spent are simply uncorrelated."
+  - '"average productive" developer never hits the high notes that make great software.'
+  - "The software marketplae, these days, is something of a winner-take-all system."
+  - "The great software developers, indeed, the best people in every field, are quite simply never on the market."
+  - 1. Go to the mountain (= interesting tech conferences)  2. Internships  3. Build your own community* (=hard)
+  - "it's really important that the ones who do pass have a positive experience. Even the ones who don't make it go back to campus thinking we're a classy employer and tell all their friends how much fun they had staying in a luxury hotel in the Big Apple"
+  - All else being equal, developers are going to prefer an organization that treats them like starts.
+  - "one of the best ways you can attract developers is to let them work on something interesting."
+  - "Use Cool New Technologies Unnecessarily"
+  - "as long as the salaries are basically fair, they will be surprisingly low on their [programmers'] list of considerations"
+  - certain programming languages or technologies on a resume indicate evidence of someone who loves programming enough to explore new technologies (e.g., Ruby)
+  - advice: "take a class in Econ so that the business side of the business isn't a mystery."
+  - Interview: 'Never say "Hire, but not for my team."'  'Never say, "Maybe, I can't tell." If you can't tell, that means No Hire.'
+  - never, ever talk to the other interviewers about the candidate until you've both made your decisions independently. That's the scientific method.
+  - "understanding pointers in C is not a skill, it's an aptitude." "For some reason most people seem to be born without the part of the brain that understands pointers."
+  - "when you find the smart, gets-things-done candidate, you'll know it."
+  - "in a high-tech company the individual contributors always have more information than the 'leaders,' so they are really in the best position to make decisions."
+  - "internship program is to make people identify as New Yorkers"
+  
