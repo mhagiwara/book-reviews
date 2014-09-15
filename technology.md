@@ -13,3 +13,29 @@ Technology
   - IBM Watson, 2000 engineers working on it, combining other cognitive technologies, including voice and image -> e.g., simple conversations for a call center
   - Reis ("The Lean Startup") technology risk isn't the problem anymore. Market risk is.
   - Correlation Ventures http://www.correlationvc.com/ - pick companies by algorithms
+
+* Peter Thiel "Zero to One"
+
+  - "Every moment in business happens only once. [...] The next Mark Zuckerberg won't create a social network. If you are copying these guys, you aren't learning from them."
+  - "What important truth do very few people agree with you on?" - "Most people think the future of the world will be defined by globalization, but the truth is that technology matters more." "What valuable company is nobody building?"
+  - "A bad plan is better than no plan."
+  - Google is a monopoly in search but a small player in ads
+  - All happy companies are different: each one earns a monopoly by solving a unique problem.
+  - "the most important question you should be asking: will this business still be around a decade from now?"
+  - "proprietary technology must be at least 10 times better than its closest substitute in some important dimension to lead to a real monopolistic advantage." (e.g., Amazon, 10 times as many books as any other bookstores)
+  - every startup should start with a very small market. Always err on the side of starting too small. The reason is simple: it's easier to dominate a small market than a large one.
+  - biotech startups indefinite approach to business
+  - "Making small changes to things that already exist might lead you to a local maximum, but it won't help you find the global maximum."
+  - Mark Zuckerberg didn't sell Facebook to Yahoo! for $1B in July 2006 - "A business with a good definite plan will always be underrated in a world where people see the future as random."
+  - Albert Einstein "compound interest is the most powerful force in the universe."
+  - venture returns follow a power low: "a small handful of companies radically outperform all others."
+  - investors who understand the power law make as few investments as possible.
+  - "It does matter what you do. You should focus relentlessly on something you're good at doing, but before that you must think hard about whether it will be valuable in the future."
+  - there are many more secrets left to find, but they will yield only to relentless searchers.
+  - Thiel's law: a startup messed up at its foundation cannot be fixed.
+  - how well the founders know each other and how well they work together matter just as much
+  - "Why would someone join your company as its 20th engineer when she could go work at Google far more money and more prestige?" - two general kinds of good answers: answers about your mission and answers about your team.
+  - Most fights inside a company happen when colleagues compete for the same reponsibilities - make one person responsible for doing just one thing
+  - poor sales rather than bad product is the most common cause of failure.
+  - "big data"   is usually dumb data. "Most valuable companies in the future won't ask what problems can be solved with computers alone. Instead, they'll ask: how can computers help humans solve hard problems?"
+  - 
