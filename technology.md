@@ -38,4 +38,5 @@ Technology
   - Most fights inside a company happen when colleagues compete for the same reponsibilities - make one person responsible for doing just one thing
   - poor sales rather than bad product is the most common cause of failure.
   - "big data"   is usually dumb data. "Most valuable companies in the future won't ask what problems can be solved with computers alone. Instead, they'll ask: how can computers help humans solve hard problems?"
-  - 
+  - doing something different is what's truly good for sociery --- it's also what allows a business to profit by monopolizing a new market
+  - no sector will be so important that merely participating in it will be enough to build a great company
