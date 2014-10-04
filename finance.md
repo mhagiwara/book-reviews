@@ -16,3 +16,13 @@ FInance
   - interest payments on your mortgage and property taxes are deductible from income tax
   - Advice: own your own home if you an possibly afford it
   - If you do want to pick stocks yourself, I strongly suggest a mixed strategy: Index the core of your portfolio, and try the stock-picking game for the money you can affort to put at somewhat greater risk.
+
+* McConnel, Brue, Flynn. Economics. 18th edition. McGrawHill. 2008.
+  - Chapter 1:
+    - economics is the social science concerned with how individuals, institutions, and society make optimal hoises under conditions of scarcity.
+    - utility - the pleasure, happiness, or satisfaction obtained from consuming a good or service.
+    - marginal analysis - comparisons of marginal benefits and marginal costs, usually for decision making. ("marginal" = "extra" "additional")
+    - positive economics deals with factual statements ("what is"); normative economics involves value judgements ("what ought to be")
+    - resource categories: land, labor, capital, entrepreneurial ability
+    - law of increasing opportunity costs = production of a unit is more costly (in terms of opportunity cost) as the production grows
+    - optimal amount of the activity occurs where MB (marginal benefit) = MC (marginal cost)
