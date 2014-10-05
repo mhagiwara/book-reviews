@@ -26,3 +26,9 @@ FInance
     - resource categories: land, labor, capital, entrepreneurial ability
     - law of increasing opportunity costs = production of a unit is more costly (in terms of opportunity cost) as the production grows
     - optimal amount of the activity occurs where MB (marginal benefit) = MC (marginal cost)
+  - Chapter 2:
+    - Money: barter poses serious problem: requires coincidence of wants between the buyer and the seller
+    - Money is socially defined; whatever society accepts as a medium of exchange is money.
+    - Consumer sovereignty is crucial in determining the types and quantities of goods produced. "dollar wars"
+    - Market: gigantic communications system (between consumers and producers, through prices and profits)
+    - Invisible hand ensures that when firms maximize their profits and resource suppliers maximize their incomes, these groups also help maximize society's output and income
