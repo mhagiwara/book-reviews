@@ -32,3 +32,10 @@ FInance
     - Consumer sovereignty is crucial in determining the types and quantities of goods produced. "dollar wars"
     - Market: gigantic communications system (between consumers and producers, through prices and profits)
     - Invisible hand ensures that when firms maximize their profits and resource suppliers maximize their incomes, these groups also help maximize society's output and income
+  - Chapter 3:
+    - Demand: quantities of a product that will be purchased at various possible prices. (simply a statement of a buyer's plans, or intentions, with respect to the purchase of a product.)
+    - Diminishing marginal utility: consumers will buy additional units only if the price of those units is progressively reduced.
+    - Superior (normal) goods: products whose demand varis directly with money income (<=> inferior goods)
+    - Substitutes & Complements = sets of two product whose demands are negatively/positively related
+    - Supply: schedule or curve showing the various amounts of a product that are producers are willing and able to make available for sale
+    - Problem on price floor/ceiling: e.g., rent controls distort market signals and thus resources are misallocated: too few resources are allocated to rental housing and too many to alternative uses.
