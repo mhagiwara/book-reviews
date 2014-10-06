@@ -39,3 +39,12 @@ FInance
     - Substitutes & Complements = sets of two product whose demands are negatively/positively related
     - Supply: schedule or curve showing the various amounts of a product that are producers are willing and able to make available for sale
     - Problem on price floor/ceiling: e.g., rent controls distort market signals and thus resources are misallocated: too few resources are allocated to rental housing and too many to alternative uses.
+  - Chapter 6:
+    - Price elasticity: percentage change in quantity demanded per percentage change in price
+    - Total revenue test - total revenue increase if price increases -> demand is elastic
+    - slope of the (demand / supply) curve -> computed from absolute changes
+    - legislatures tend to seek out products that have inelastic demand --- such as liquor, gasoline, and cigarettes -- when levying excises
+    - Cross elasticity of demand = % change in quantity demanded (product X) / % change in price of product Y (substitute -> positive, complements -> negative)
+    - Consumer surplus = different between the maximum price a consumer is willing to pay for a product, and the actual price
+    - All markets with downward-sloping demand curves and upward-sloping supply curves yield consumer and producer surplus
+    - Price discrimination: why lower price for children? because children have more elastic demands than adults because children have low budgets, often financed by their parents (even though the business cost for children is almost the same)
