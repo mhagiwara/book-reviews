@@ -6,6 +6,8 @@ Technology
   - Chapter 2
     - "sed-uid" bit - grand the permission of the owner when run (used for passwd command)
     - "read" and "execute" permission for directories - "read" the file names of the directory, "execute (search)" to actually retrieve the file. "write" permission required to move/delete the files
+    - /dev info: character (c) or block (b), the major number (type) and the minor number (distinguishes different devices)
+    - /dev/tty -> terminal (used by crypt to receive the password input)
 
 
 * MIT Technology Review Business Report: Data and Decision Making http://www.technologyreview.com/businessreport/data-and-decision-making/download/
