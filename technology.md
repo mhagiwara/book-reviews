@@ -7,6 +7,9 @@ Technology
     - from collection import deque -> keep the last N elements pushed
     - heapq -> heap, supports O(1) min() and O(log n) push.
     - OrderedDict -> preserves the order of keys
+    - Python 3 dict.keys() -> set, not list, support intersection, union, diff, etc.
+    - Name a slice by slice(st, ed) (supports start, stop, step)
+    - Python >= 2.7 supports Counter (from collections) - dict subclass for counting iteratives
 
 * Brian W Kernighan and Rob Pike. The Unix Programming Environment. 1983.
   - Chapter 1
