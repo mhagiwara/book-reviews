@@ -1,7 +1,14 @@
 Technology
 ----------
 
-* The Unix Programming Environment. Brian W Kernighan and Rob Pike, 1983.
+* David Beazley and Brian K. Jones. Python Cookbook, Third Edition, 2013.
+  - Chapter 1
+    - Python 3 supports star expressions for unpacking: first, * middle, last = data
+    - from collection import deque -> keep the last N elements pushed
+    - heapq -> heap, supports O(1) min() and O(log n) push.
+    - OrderedDict -> preserves the order of keys
+
+* Brian W Kernighan and Rob Pike. The Unix Programming Environment. 1983.
   - Chapter 1
   - Chapter 2
     - "sed-uid" bit - grand the permission of the owner when run (used for passwd command)
