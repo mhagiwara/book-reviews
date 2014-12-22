@@ -1,6 +1,13 @@
 Technology
 ----------
 
+* The Unix Programming Environment. Brian W Kernighan and Rob Pike, 1983.
+  - Chapter 1
+  - Chapter 2
+    - "sed-uid" bit - grand the permission of the owner when run (used for passwd command)
+    - "read" and "execute" permission for directories - "read" the file names of the directory, "execute (search)" to actually retrieve the file. "write" permission required to move/delete the files
+
+
 * MIT Technology Review Business Report: Data and Decision Making http://www.technologyreview.com/businessreport/data-and-decision-making/download/
   - 1-800-Dentist A/B test to optimize fill out the form using "Optimizely" (by ex-Googler, used Obama campaign, putting personal message from President increased fund-raising by 14%), at least 15% of top 10K websites run A/B tests
   - A Google designer quit because Google cannot decide between two blues so it tested 41 shades...
