@@ -10,6 +10,7 @@ Technology
     - Python 3 dict.keys() -> set, not list, support intersection, union, diff, etc.
     - Name a slice by slice(st, ed) (supports start, stop, step)
     - Python >= 2.7 supports Counter (from collections) - dict subclass for counting iteratives
+    - itemgetter and attrgetter in operator can be used for sort key func (instead of lambda)
 
 * Brian W Kernighan and Rob Pike. The Unix Programming Environment. 1983.
   - Chapter 1
@@ -18,6 +19,7 @@ Technology
     - "read" and "execute" permission for directories - "read" the file names of the directory, "execute (search)" to actually retrieve the file. "write" permission required to move/delete the files
     - /dev info: character (c) or block (b), the major number (type) and the minor number (distinguishes different devices)
     - /dev/tty -> terminal (used by crypt to receive the password input)
+    - dot "." shell built-in command: execute a script in the current environment (variables are overwritten) or prefix any commands with var=val
 
 
 * MIT Technology Review Business Report: Data and Decision Making http://www.technologyreview.com/businessreport/data-and-decision-making/download/
