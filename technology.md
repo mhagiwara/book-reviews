@@ -11,6 +11,8 @@ Technology
     - Name a slice by slice(st, ed) (supports start, stop, step)
     - Python >= 2.7 supports Counter (from collections) - dict subclass for counting iteratives
     - itemgetter and attrgetter in operator can be used for sort key func (instead of lambda)
+    - namedtuple's replace() can create a new instance with a value replaced
+  - Chapter 2
 
 * Brian W Kernighan and Rob Pike. The Unix Programming Environment. 1983.
   - Chapter 1
