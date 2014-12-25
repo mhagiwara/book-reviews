@@ -13,6 +13,8 @@ Technology
     - itemgetter and attrgetter in operator can be used for sort key func (instead of lambda)
     - namedtuple's replace() can create a new instance with a value replaced
   - Chapter 2
+    - str.startswith and endswith takes a tuple (for multiple possibilities)
+    - from fnmatch import fnmatch, fnmatchcase -> Unix-like file name wildcard
 
 * Brian W Kernighan and Rob Pike. The Unix Programming Environment. 1983.
   - Chapter 1
@@ -22,6 +24,8 @@ Technology
     - /dev info: character (c) or block (b), the major number (type) and the minor number (distinguishes different devices)
     - /dev/tty -> terminal (used by crypt to receive the password input)
     - dot "." shell built-in command: execute a script in the current environment (variables are overwritten) or prefix any commands with var=val
+  - Chapter 4
+    - filters. egrep (extended) and fgrep (fast), now consolidated into the same program (grep)
 
 
 * MIT Technology Review Business Report: Data and Decision Making http://www.technologyreview.com/businessreport/data-and-decision-making/download/
