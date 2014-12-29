@@ -26,7 +26,8 @@ Technology
     - dot "." shell built-in command: execute a script in the current environment (variables are overwritten) or prefix any commands with var=val
   - Chapter 4
     - filters. egrep (extended) and fgrep (fast), now consolidated into the same program (grep)
-
+    - sed convenient command (e.g., sed -n '20,30p' -> print lines 20-30, sed '1d' -> print except the first line)
+    - awk special variables: NR (line number), FS (field separator), built-in functions (e.g., length)
 
 * MIT Technology Review Business Report: Data and Decision Making http://www.technologyreview.com/businessreport/data-and-decision-making/download/
   - 1-800-Dentist A/B test to optimize fill out the form using "Optimizely" (by ex-Googler, used Obama campaign, putting personal message from President increased fund-raising by 14%), at least 15% of top 10K websites run A/B tests
