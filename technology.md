@@ -15,6 +15,8 @@ Technology
   - Chapter 2
     - str.startswith and endswith takes a tuple (for multiple possibilities)
     - from fnmatch import fnmatch, fnmatchcase -> Unix-like file name wildcard
+    - unicodedata.normalize(form, str) form: NKC (normal form decomposition -> composition) NKD (normal form decomposition)
+    - newer codes should prefer format over "%". format also supports aligning and variable interpolation.
 
 * Brian W Kernighan and Rob Pike. The Unix Programming Environment. 1983.
   - Chapter 1
