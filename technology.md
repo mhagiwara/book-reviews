@@ -17,6 +17,10 @@ Technology
     - from fnmatch import fnmatch, fnmatchcase -> Unix-like file name wildcard
     - unicodedata.normalize(form, str) form: NKC (normal form decomposition -> composition) NKD (normal form decomposition)
     - newer codes should prefer format over "%". format also supports aligning and variable interpolation.
+  - Chapter 3
+    - useful random functions: choice, sample, shuffle, getrandbits
+    - datetime.strftime() can be slow -> use custom function instead if there are a lot of strings to process
+    - use pytz to deal with timezones
 
 * Brian W Kernighan and Rob Pike. The Unix Programming Environment. 1983.
   - Chapter 1
