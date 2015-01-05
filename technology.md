@@ -21,6 +21,10 @@ Technology
     - useful random functions: choice, sample, shuffle, getrandbits
     - datetime.strftime() can be slow -> use custom function instead if there are a lot of strings to process
     - use pytz to deal with timezones
+  - Chapter 4
+    - yield from (generator delegation) expression -> from Python 3.3
+    - reversed() can be implemented by __reversed__() (reverse iterator)
+    - iterators can be sliced by itertools.islice(), dropwhile()
 
 * Brian W Kernighan and Rob Pike. The Unix Programming Environment. 1983.
   - Chapter 1
