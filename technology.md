@@ -30,6 +30,9 @@ Technology
   - Chapter 5
     - object implementing 'buffer interface' -> exposes underlying memory buffer -> can directly write() and readinto()
     - __setstate__() and __getstate__() for pickle -> set and get internal states
+  - Chapter 6
+    - serialize_instance() and unserialize_instance() for JSON serialization of instances
+    - 
 
 * Brian W Kernighan and Rob Pike. The Unix Programming Environment. 1983.
   - Chapter 1

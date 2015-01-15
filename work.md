@@ -1,6 +1,21 @@
 Work
 ----
 
+* "Shane Show: "Smartcuts: How Hackers, Innovators, and Icons Accelerate Success", 2014.
+  - Momentum is a big predictor of personal/career success
+  - Many of American presidents didn't climb the traditional sense of ladders. They "hacked" it
+  - Informal mentoring is the key of many successful people
+  - "Successful entrepreneurs, on the other hand, are 50 percent more likely to succeed in a second venture. The more you win, the more likely you are to win again"
+  - Finland school success - teachers spend less time, less focus on rote memorization, use calculators to hack math to have positive attitudes
+  - "as the world evolves, so too should we constantly rethink our educational conventions in light of the new platforms we have."
+  - Importance of "waiting for the right wave" Sonny Moore (Skrillex) got popular in screamo then in EDM
+  - Superconnectors - Che Guevara in cuban revolution used Radio Rebelde, teaching peasants how to read
+  - Contrast between Michelle Phan ("Lady Gaga Makeup") and Paul Vasquez ("Double Rainbow")
+  - President Obama "I don't want to make decisions about what I'm eating or wearing. Because I have too many other decisions to make."
+  - Patience and willpower and creativity are exhausible resources.
+  - Astro Teller at Google[x] "It's often easier to make something 10 times better than it is to make it 10 times better."
+  - Don't reach for low hanging fruit. Competition decreases performance.
+
 *  Greg McKeown "Essentialism: The Disciplined Pursuit of Less" Crown Business, 2014.
   - "only once you give yourself permission to stop trying to do it all, to stop saying yes to everyone, can you make your highest contribution towards the things that really matter."
   - "Weniger aber besser." (German) -> "Less but btter"
@@ -51,4 +66,3 @@ Work
   - "when you find the smart, gets-things-done candidate, you'll know it."
   - "in a high-tech company the individual contributors always have more information than the 'leaders,' so they are really in the best position to make decisions."
   - "internship program is to make people identify as New Yorkers"
-  
