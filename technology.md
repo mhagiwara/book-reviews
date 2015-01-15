@@ -27,6 +27,9 @@ Technology
     - iterators can be sliced by itertools.islice(), dropwhile()
     - introduction of itertools.combinations, permutations, zip_longest, chain
     - iter(callable, sentinel) -> loop while the return value is not equal to the sentinel
+  - Chapter 5
+    - object implementing 'buffer interface' -> exposes underlying memory buffer -> can directly write() and readinto()
+    - __setstate__() and __getstate__() for pickle -> set and get internal states
 
 * Brian W Kernighan and Rob Pike. The Unix Programming Environment. 1983.
   - Chapter 1
