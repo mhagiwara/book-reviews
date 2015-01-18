@@ -32,7 +32,11 @@ Technology
     - __setstate__() and __getstate__() for pickle -> set and get internal states
   - Chapter 6
     - serialize_instance() and unserialize_instance() for JSON serialization of instances
-    - 
+    - Use memoryview() to avoid unnecessary copies (like slices) http://stackoverflow.com/questions/18655648/what-exactly-is-the-point-of-memoryview-in-python
+    - Default function arguments are evaluated only once (at the time of function definition)
+    - Use instance test ("is") with a global "object()" to test if any values (including 0, [], None) are passed to default argument
+    - lambda: Capture the value at the time of definition using the default value: e.g., 
+
 
 * Brian W Kernighan and Rob Pike. The Unix Programming Environment. 1983.
   - Chapter 1
