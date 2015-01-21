@@ -35,8 +35,11 @@ Technology
     - Use memoryview() to avoid unnecessary copies (like slices) http://stackoverflow.com/questions/18655648/what-exactly-is-the-point-of-memoryview-in-python
     - Default function arguments are evaluated only once (at the time of function definition)
     - Use instance test ("is") with a global "object()" to test if any values (including 0, [], None) are passed to default argument
-    - lambda: Capture the value at the time of definition using the default value: e.g., 
-
+  - Chapter 7
+    - lambda: Capture the value at the time of definition using the default value: e.g., lambda x, n=n
+  - Chapter 8
+    - Use "!r" format string to force repr() instead of str()
+    - format() can be customized by __format__()
 
 * Brian W Kernighan and Rob Pike. The Unix Programming Environment. 1983.
   - Chapter 1
