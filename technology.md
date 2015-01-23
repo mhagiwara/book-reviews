@@ -40,6 +40,9 @@ Technology
   - Chapter 8
     - Use "!r" format string to force repr() instead of str()
     - format() can be customized by __format__()
+    - Creating getter/setter -> decorate by @[attname], @[attname.setter], @[attname.deleter]. Don't write getters/setters unless necessary (e.g., type/value check)
+    - Descriptors: reusable, generalized properties. see http://nbviewer.ipython.org/gist/ChrisBeaumont/5758381/descriptor_writeup.ipynb
+    - Bypass init() by involing __new__() directory (e.g., JSON deserialization)
 
 * Brian W Kernighan and Rob Pike. The Unix Programming Environment. 1983.
   - Chapter 1
