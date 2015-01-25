@@ -1,6 +1,18 @@
 Work
 ----
 
+* Stuart Diamond. "Getting More: How You Can Negotiate to Succeed in Work and Life," 2012
+  - Be dispassionate, prepare, find the decision-maker, focus on your goals, make human contact
+  - Focus on achieving your goals (not who is right)
+  - Negotiate incrementally
+  - Trade things you value unequally (e.g., a lower price for more referrals)
+  - Don't be manipulative, don't deceive people
+  - "Common enemies bring parties closer together and make the negotiation easier."
+  - Problems forcing people to do something - the moment you use raw power over someone, the relationship is usually over
+  - Get creative!
+  - Getting people to feel what you want
+
+
 * "Shane Show: "Smartcuts: How Hackers, Innovators, and Icons Accelerate Success", 2014.
   - Momentum is a big predictor of personal/career success
   - Many of American presidents didn't climb the traditional sense of ladders. They "hacked" it
