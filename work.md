@@ -10,8 +10,19 @@ Work
   - "Common enemies bring parties closer together and make the negotiation easier."
   - Problems forcing people to do something - the moment you use raw power over someone, the relationship is usually over
   - Get creative!
-  - Getting people to feel what you want
-
+  - Getting people to feel what you want (you care about their feelings -> they listen more)
+  - "The mere act of setting a goal has been shown to increase performance by more than 25 percent."
+  - Your credibility is more important than you expertise, connections, intelligence, assets, and looks.
+  - Woman are better negotiators <- listen more, collect information, try to learn negotiation tools
+  - Don't just learn the tools. PRACTICE them so that you can use them in real time (operational knowledge).
+  - John Nash -> proved mathematically that when parties collaborate the pie expands (e.g., 4 hunters get a deer instead of four rabbits)
+  - 55% of the reasons people reach agreement -> whether "people" like you or not
+  - Differences are profitable - diversity leads to more outcomes.
+  - Kids have little power -> give them power proactively
+  - Kids are incremental -> make them clean the quarter of your room
+  - Quote company policy ("value customers"), find out exceptions made
+  - Situational Negotiation: What are my goals? Who are they? What will it take to persuade them?
+  - Be persistent: more people than you think will help you, let you keep trying. Persistence builds self-confidence
 
 * "Shane Show: "Smartcuts: How Hackers, Innovators, and Icons Accelerate Success", 2014.
   - Momentum is a big predictor of personal/career success

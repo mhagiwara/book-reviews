@@ -42,7 +42,9 @@ Technology
     - format() can be customized by __format__()
     - Creating getter/setter -> decorate by @[attname], @[attname.setter], @[attname.deleter]. Don't write getters/setters unless necessary (e.g., type/value check)
     - Descriptors: reusable, generalized properties. see http://nbviewer.ipython.org/gist/ChrisBeaumont/5758381/descriptor_writeup.ipynb
-    - Bypass init() by involing __new__() directory (e.g., JSON deserialization)
+    - Bypass __init__() by involing __new__() directory (e.g., JSON deserialization)
+    - Python ast (abstract syntax tree, using in Python compilation) uses the visitor pattern
+    - Python's GC is simple refernece counting. You can use weakref to reference to an object without increasing the count.
 
 * Brian W Kernighan and Rob Pike. The Unix Programming Environment. 1983.
   - Chapter 1
