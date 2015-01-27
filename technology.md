@@ -45,6 +45,8 @@ Technology
     - Bypass __init__() by involing __new__() directory (e.g., JSON deserialization)
     - Python ast (abstract syntax tree, using in Python compilation) uses the visitor pattern
     - Python's GC is simple refernece counting. You can use weakref to reference to an object without increasing the count.
+  - Chapter 9
+    - functools.wraps -> Update the wrapper function to look like the wrapped function (e.g., name & docstring)
 
 * Brian W Kernighan and Rob Pike. The Unix Programming Environment. 1983.
   - Chapter 1
