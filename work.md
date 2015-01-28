@@ -1,6 +1,33 @@
 Work
 ----
 
+* Barbara Oakley. A Mind For Numbers, Penguin Group LLC, 2014.
+  - Brain works on a problem if you try hard to solve it before falling asleep.
+  - "The harder you push your brain to come up with something creative, the less creative your ideas will be."
+  - Procrastination only leaves you superficial focused-mode learning.
+  - Brain uses two different modes: focused/diffuse
+  - Deliberately switch to diffuse mode: nap, walk, bus, bath, bed
+  - "Start early on your assignments and, unless you are really enjoying what you are doing, keep your working sessions short." (as if muscles need time to rest)
+  - Don't let things go untouched for longer than a day. Work in small doses, a little every day
+  - Dream about what you are studying
+  - "The best predictor of how many creative works we produce in our lifetime is ... the number of works we produce."
+  - Facebook motto: "What would you do if you weren't afraid?"
+  - Best language programs (like Defence Language Institute) incorporates both focused mode and diffuse mode
+  - "Recalling" the material is far more effective than simply rereading the material.
+  - Interleave mixture of different kinds of problems. Avoid overlearning (waste of time).
+  - On procrastination "The dread of doing a task uses up more time and energy than doing the task itself."
+  - Focus on process instead of product.
+  - "Testing effect" - Testing in itself is a powerful learning experience.
+  - Special place devoted just to working is particularly helpful for avoiding procrastination.
+  - Plan your quitting time (time to go home)
+  - "Willpower is a lot like muscle. You have to use your muscles to strengthen and develop them over time. But at any given time, your muscles have only so much energy available."
+  - Regular exercise (both aerobic and resistance) can make a substantive improvement in your memory and learning abilities.
+  - Take pride in who you are, especially in the qualities that make you "different," and use them as a secret talisman for success.
+  - The number of acquaintances you have - not the number of good friends - predicts your access to the latest ideas as well as your success on the job market.
+  - When taking a test, start with the hard problem, but quickly jump to the easy ones.
+  - Shift your thinking from "this test has made me afraid" to "this test has got me excited to do my best!" improves the performance.
+  -
+
 * Stuart Diamond. "Getting More: How You Can Negotiate to Succeed in Work and Life," 2012
   - Be dispassionate, prepare, find the decision-maker, focus on your goals, make human contact
   - Focus on achieving your goals (not who is right)
