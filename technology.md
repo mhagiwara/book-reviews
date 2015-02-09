@@ -48,6 +48,8 @@ Technology
   - Chapter 9
     - functools.wraps -> Update the wrapper function to look like the wrapped function (e.g., name & docstring)
     - Metaclasses -> class of class (e.g., 'type'), change behaviors of classes by defining __new__, __init__ (with clsname, bases, clsdict)
+  - Chapter 10
+    - Use __all__ to control what to export as a module
 
 
 * Brian W Kernighan and Rob Pike. The Unix Programming Environment. 1983.
