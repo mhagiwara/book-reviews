@@ -52,6 +52,8 @@ Technology
     - Use __all__ to control what to export as a module
   - Chapter 11
     - Use "requests" http://docs.python-requests.org/ for simple HTTP clients
+    - Writing simple remote procedure call using XML-RPC (xmlrpc module)
+    - 
 
 * Brian W Kernighan and Rob Pike. The Unix Programming Environment. 1983.
   - Chapter 1
