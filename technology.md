@@ -53,7 +53,10 @@ Technology
   - Chapter 11
     - Use "requests" http://docs.python-requests.org/ for simple HTTP clients
     - Writing simple remote procedure call using XML-RPC (xmlrpc module)
-    - 
+  - Chapter 12
+    - Write simple map-reduce process using futures.ProcessPoolExecutor
+    - GIL (global interpreter lock) only affects programs that are heavily CPU bound (not IO)  GIL workaround -> multiprocessing module to create a process pool, or disable using C extension programming
+
 
 * Brian W Kernighan and Rob Pike. The Unix Programming Environment. 1983.
   - Chapter 1
