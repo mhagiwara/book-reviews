@@ -116,3 +116,11 @@ Work
   - "when you find the smart, gets-things-done candidate, you'll know it."
   - "in a high-tech company the individual contributors always have more information than the 'leaders,' so they are really in the best position to make decisions."
   - "internship program is to make people identify as New Yorkers"
+
+* Joe Kutner "The Healthy Programmer" The Pragmatic Programmers, 2013
+  - New assumption in revolution: human brain evolved due to exercise (not cognitive performance)
+  - "Healthy Stand-Up" What did I do yesterday to improve my health? What will I do today to improve my health? Is there anything blocking me from staying healthy?
+  - Exercise before or after learning -> better performance (neuron connection strenghthening protein)
+  - Buy a pedometer - simply wearing a pedometer is correlated to taking more steps
+  - Best intensity level for exercise - 114 BPM heartrate for average 30 year old
+  - Normal resting heart rate (60 - 90 BPM; in my case 70 BPM) -> lower the better (e.g., lose weight, quit smoking, reduce stress)
