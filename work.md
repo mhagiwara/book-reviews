@@ -124,3 +124,6 @@ Work
   - Buy a pedometer - simply wearing a pedometer is correlated to taking more steps
   - Best intensity level for exercise - 114 BPM heartrate for average 30 year old
   - Normal resting heart rate (60 - 90 BPM; in my case 70 BPM) -> lower the better (e.g., lose weight, quit smoking, reduce stress)
+  - amount of time a person sits is directly associated with mortality from all causes (independent of physical activity), which standing can reduce
+  - 5 minutes of activity per hour can counteract most of the negative effects of sitting
+  - No single position is perfect. Change positions every 20 minutes.
