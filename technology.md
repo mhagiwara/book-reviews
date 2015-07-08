@@ -1,5 +1,13 @@
 Technology
 ----------
+* Steve McConnel. Code Complete, Second Edition, 2009.
+  - Chapter 24 Refactoring
+    - Reason to refactor: code is duplicated, long routines, long parameter lists
+    - A subclass only uses small fraction of parent's routines
+    - Keep the refactoring small, do one at a time
+    - Keep 'parking lots' - list of things you noticed during refactoring but not doing right now
+    - Targeting error-prone modules which everyone is afraid of is an effective strategy
+
 
 * David Beazley and Brian K. Jones. Python Cookbook, Third Edition, 2013.
   - Chapter 1
@@ -56,6 +64,10 @@ Technology
   - Chapter 12
     - Write simple map-reduce process using futures.ProcessPoolExecutor
     - GIL (global interpreter lock) only affects programs that are heavily CPU bound (not IO)  GIL workaround -> multiprocessing module to create a process pool, or disable using C extension programming
+  - Chapter 14
+    - Use unittest.mock.patch() to replace sys.stdout with StringIO() (also be used as a decorator to replace a function with another)
+    - Use time.perf_counter() to get a clock with the highest available resolution
+    - General advice on how to make your program faster: http://chimera.labs.oreilly.com/books/1230000000393/ch14.html#_making_your_programs_run_faster
 
 
 * Brian W Kernighan and Rob Pike. The Unix Programming Environment. 1983.
