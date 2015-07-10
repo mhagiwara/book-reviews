@@ -1,6 +1,17 @@
 Technology
 ----------
 * Steve McConnel. Code Complete, Second Edition, 2009.
+  - Chapter 23 Debugging
+    - debugging occupies 50% of time of total development time
+    - roughly 20x difference in time between experienced and inexperienced programmars to find bugs
+    - improving quality reduces development cost -> they are not trade-off
+    - it is your best interests to assume an error is your fault
+    - Scientific method for debugging: gathar data through experiment, hypothesize, prove / disprove
+    - Classes that have defects before are likely to continue to have defects
+    - "Confessional debugging" - try to explain to someone else and the problems will be solved on its own
+    - Take a break when you start feeling anxiety - let your subconsious mind tease out a problem
+    - Rewrite a bad code (e.g., in 30mins) rather than debugging it (could take two hours)
+
   - Chapter 24 Refactoring
     - Reason to refactor: code is duplicated, long routines, long parameter lists
     - A subclass only uses small fraction of parent's routines
