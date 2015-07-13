@@ -11,6 +11,9 @@ Technology
     - "Confessional debugging" - try to explain to someone else and the problems will be solved on its own
     - Take a break when you start feeling anxiety - let your subconsious mind tease out a problem
     - Rewrite a bad code (e.g., in 30mins) rather than debugging it (could take two hours)
+    - Understand the problem before you fix it.
+    - Achieve a global (or at least, a few hundred lines around) understanding of program rather than focusing it locally
+    - Different mindsets for building and debugging code - creative, design thinking, and rigidly critical thinking
 
   - Chapter 24 Refactoring
     - Reason to refactor: code is duplicated, long routines, long parameter lists
