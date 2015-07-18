@@ -14,6 +14,7 @@ Technology
     - Understand the problem before you fix it.
     - Achieve a global (or at least, a few hundred lines around) understanding of program rather than focusing it locally
     - Different mindsets for building and debugging code - creative, design thinking, and rigidly critical thinking
+    - Set compile warning level to highest and deal with warnings as if they are errors
 
   - Chapter 24 Refactoring
     - Reason to refactor: code is duplicated, long routines, long parameter lists
