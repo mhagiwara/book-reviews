@@ -1,5 +1,28 @@
 Technology
 ----------
+* Andrew Hunt and David Thomas. Pragmatic Programmer.
+  - Kaizen applies to individuals too. Refine the skills and add new tools.
+  - Chapter 1
+    - Don't leave broken windows (bad designs, wrong decisions, or poor code) unrepaired.
+    - If you don't have time, board it up (e.g., 'Not Implemented')
+    - Be a catalyst for change - people find it easier to join an ongoing success.
+    - Your knowledge and experience are your most important professional assets. Unfortunately, they're expiring assets.
+    - Invest regularly (just like financial portofolio)
+    - Learn at least one new language every year.
+  - Chapter 2
+    - Programmers are constantly in maintenance mode. Maintenance is not a discrete activity, but a routine part of the entire development process.
+    - Orthogonality - If I dramatically change the requirements behind a particular function, how many modules are affected? The answer should be one.
+    - Prototyping generates dispoable code. Tracer code is lean but complete, and forms part of the skeleton of the final system.
+    - What to say when asked for an estimate - 'I'll get back to you'
+  - Chapter 3
+    - Keep knowledge in plain text
+    - It is better to know one editor very well, and use it for all editing tasks: documentation, memos, system administration, and so on.
+    - Always use source code control
+    - Debugging is just problem solving, and attack it as such.
+    - we want a bug that can be reproduced with a single command.
+    - Rubber ducking - try to explain to somebody (who doesn't have to answer)
+
+
 * Steve McConnel. Code Complete, Second Edition, 2009.
   - Chapter 23 Debugging
     - debugging occupies 50% of time of total development time
