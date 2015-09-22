@@ -21,7 +21,11 @@ Technology
     - Debugging is just problem solving, and attack it as such.
     - we want a bug that can be reproduced with a single command.
     - Rubber ducking - try to explain to somebody (who doesn't have to answer)
-
+  - Chapter 4
+    - Accept that you can't write perfect software
+    - Liskov substitution principal - subclasses must be usable through the base class interface without the need for the user to know the difference
+    - Dead programs tell no lies - crash early
+    - If it can't happen, use assertions to ensure that it won't
 
 * Steve McConnel. Code Complete, Second Edition, 2009.
   - Chapter 23 Debugging
