@@ -1,6 +1,24 @@
 Work
 ----
 
+* Brian Tracy. Eat That Frog!
+    - People that look smarter than you are just doing things differently.
+    - "The ability to concentrate singlemindedly on your most important task, to do it well and to finish it completely, is the key to great success, achievement, respect, and happiness in life."
+    - "There are so many good things that you can do that your ability to decide among them may be the critical determinant of what you accomplish in life"
+    - If you have to eat two frogs, eat the ugliest one first. If you have to eat a live frog at all, it doesn't pay to sit and look at it for very long.
+    - "One of the most important decisions you make each day is what you will do later"
+    - Write ten goals, pick the most important one, set a deadline, make a plan, and take action on your plan.
+    - Resist the temptation to clear up small things first.
+    - "There is never enough time to do everything, but there is always enough time to do the most important thing."
+    - For you to do something new, you must complete or stop doing something old.
+    - A great life or a great career is built by performing one task at a time, quickly and well, and then going on to the next task.
+    - Listen to audio programs in your car. The average car owner sits behind the wheel 500 to 1,000 hours each year while driving from place to place.
+    - What is it that you do that gets you the most complements and praise from other people?
+    - Imagine each day that you have just received an emergency message and that you will have to leave town tomorrow for a month. What would you do?
+    - Feed yourself as you would feed a world-class athlete before a competition
+    - Control your thoughts. Remember, you become what you think about most of the time.
+
+
 * Barbara Oakley. A Mind For Numbers, Penguin Group LLC, 2014.
   - Brain works on a problem if you try hard to solve it before falling asleep.
   - "The harder you push your brain to come up with something creative, the less creative your ideas will be."
