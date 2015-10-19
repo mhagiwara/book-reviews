@@ -1,6 +1,19 @@
 Work
 ----
 
+* John Sonmez. "Soft Skills"
+    - Chapter 2
+        - Treat your software development career as a business. Constantly revise and improve your 'product'. Think about how to market it (writing a resume and chasing customers one by one is not the best way)
+    - Chapter 3
+        - Set a big goal of your career (think about sailing a ship), then chart a course to get there by setting smaller goals. Check your progress periodically (week, month, quarter, year)
+    - Chapter 4
+        - Majority of software development time is spent dealing with people (think who sends emails - people do).
+        - Respect co-workers' ideas, never criticize, think about what's important for others, not you
+        - Read 'How to win friends and influence people' by Dale Carnegie
+    - Chapter 5
+        - Pass an interview by getting the interviewer to like you. Make sure to apply through a referral. Build up rapport (reading blogs, local user groups, etc.)
+
+
 * Brian Tracy. Eat That Frog!
     - People that look smarter than you are just doing things differently.
     - "The ability to concentrate singlemindedly on your most important task, to do it well and to finish it completely, is the key to great success, achievement, respect, and happiness in life."
