@@ -12,6 +12,16 @@ Work
         - Read 'How to win friends and influence people' by Dale Carnegie
     - Chapter 5
         - Pass an interview by getting the interviewer to like you. Make sure to apply through a referral. Build up rapport (reading blogs, local user groups, etc.)
+    - Chapter 6
+        -
+    - Chapter 7
+        - Specialize! (think of a layer) - it's difficult to market yourself as a jack-of-all-trades. your chance of getting a job becomes higher.
+    - Chapter 8
+        - Don't work for a startup to get rich on the stock options - work for the fast-paced, exciting environment
+        - Software development companies vs companies  with software developers
+    - Chapter 9 Climbing the corporate ladders
+        - Any time you're offered more responsibility, take it. Or find it (e.g., legacy system, become a mentor)
+        - Keep a daily account, compile it to a weekly report and send to manager. Offer to give presentations. Educate yourself.
 
 
 * Brian Tracy. Eat That Frog!
