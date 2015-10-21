@@ -22,7 +22,18 @@ Work
     - Chapter 9 Climbing the corporate ladders
         - Any time you're offered more responsibility, take it. Or find it (e.g., legacy system, become a mentor)
         - Keep a daily account, compile it to a weekly report and send to manager. Offer to give presentations. Educate yourself.
-
+    - Chapter 10
+        - Be a professional. Learn time management. Know when to say 'no'. Strive to high quality and improve.
+    - Chapter 11
+        - Start your business on the side and quit only when it's generating enough income
+        - Out of a typical eight-hour work day, most of us only work about for hours. (and work only half as hard if you hadn't been working for yourself)
+    - Chapter 12
+        - Have a blog to do inbound marketing (get customers to come to you)
+        - You have to charge as a freelancer about twice the hourly rate you have as a fulltime employee
+    - Chapter 13
+        - Every product, including books, solves a particular problem. Without a problem to solve = no customers.
+        - Use blog, talks, podcast, video etc. to build an audience (potential customers)
+        - Set up a 'pre-order' page to assess if the audience would pay you if you built the product (with discount, money-back guarantee)
 
 * Brian Tracy. Eat That Frog!
     - People that look smarter than you are just doing things differently.
