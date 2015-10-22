@@ -15,7 +15,7 @@ Work
     - Chapter 6
         -
     - Chapter 7
-        - Specialize! (think of a layer) - it's difficult to market yourself as a jack-of-all-trades. your chance of getting a job becomes higher.
+        - Specialize! Your chance of getting a job becomes higher.- it's difficult to market yourself as a jack-of-all-trades (think of a lawyer).
     - Chapter 8
         - Don't work for a startup to get rich on the stock options - work for the fast-paced, exciting environment
         - Software development companies vs companies  with software developers
@@ -34,6 +34,21 @@ Work
         - Every product, including books, solves a particular problem. Without a problem to solve = no customers.
         - Use blog, talks, podcast, video etc. to build an audience (potential customers)
         - Set up a 'pre-order' page to assess if the audience would pay you if you built the product (with discount, money-back guarantee)
+    - Chapter 14
+        -
+    - Chapter 15
+        - Time management is a key for working from home - make a daily schedule and stick to it.
+        - When you are feeling unmotivated, work for 15 minutes first. You'll find it easier just to keep moving.
+    - Chapter 16
+        - Fake it till you make it  - act as if you already possess the skills and talent you need to succeed
+        - How would you 'act' if you were already the kind of person you want to be?
+    - Chapter 17
+        - Hire a professional resume writer (think of a brochure selling you a $100 product, compare it to your $80K+ job). Put your resume online.
+    - Chapter 18
+        -
+    - Chapter 19
+        - Write a blog to market yourself. Blog should be your home base. Great example: http://www.smartpassiveincome.com/
+    - 
 
 * Brian Tracy. Eat That Frog!
     - People that look smarter than you are just doing things differently.
