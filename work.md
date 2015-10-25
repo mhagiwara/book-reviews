@@ -48,7 +48,13 @@ Work
         -
     - Chapter 19
         - Write a blog to market yourself. Blog should be your home base. Great example: http://www.smartpassiveincome.com/
-    - 
+    - Chapter 26
+        - Don't be afraid to look like an idiot - do you even remember the last time someone 'biffed' it? Go out and do something that scares you.
+    - Chapter 36
+        - Focus is key to productivity (think of a car running on a highway). Focus has its own kind of momentum. Get over the initial pain and discomfort. Survive first 5 or 10 minutes.
+    - Chapter 37
+        - Use Trello/Kanbanflow for Kanban-style weekly view.
+        - Interruptions are the biggest productivity killers. Batch reply emails.
 
 * Brian Tracy. Eat That Frog!
     - People that look smarter than you are just doing things differently.
