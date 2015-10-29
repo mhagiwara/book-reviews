@@ -55,6 +55,14 @@ Work
     - Chapter 37
         - Use Trello/Kanbanflow for Kanban-style weekly view.
         - Interruptions are the biggest productivity killers. Batch reply emails.
+    - Chapter 38
+        - Set a goal and keep track of pomodori you do in a day. Plan your week based on how many pomodori you can do, not the number of tasks
+        - Feeling of 'should be doing more work all the time' - due to the lack of clear goal and assessment how much you accomplish in a day
+    - Chapter 39
+    - Chapter 40
+        - Learn how to be accountable for yourself. You need same kind of structure as your employers would have in place in your own life.
+    - Chapter 42
+        - Burnout (losing interests and motivation) - keep pushing through the wall! Set regular schedule helps you push through the wall.
 
 * Brian Tracy. Eat That Frog!
     - People that look smarter than you are just doing things differently.
