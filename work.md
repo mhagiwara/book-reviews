@@ -63,6 +63,18 @@ Work
         - Learn how to be accountable for yourself. You need same kind of structure as your employers would have in place in your own life.
     - Chapter 42
         - Burnout (losing interests and motivation) - keep pushing through the wall! Set regular schedule helps you push through the wall.
+    - Chapter 43
+        - TV is the biggest time waster. So is social media and emails. Batch process them.
+    - Chapter 44
+        - 'What you do every day defines and shapes who you are over time. '
+    - Chapter 45
+        - Think of one big goal you want to accomplish and see if you can form habits that will move you in the direction of it.
+    - Chapter 46
+        - Problem admiration - being so busy admiring the size of a problem that you don't actually try and solve it.
+    - Chapter 47
+        - the work that we consider hard is the work that's most likely benefit us. It's the work that's most likely to advance our careers or open up new opportunities. Hard work is boring.
+    - Chapter 48
+        - 
 
 * Brian Tracy. Eat That Frog!
     - People that look smarter than you are just doing things differently.

@@ -28,15 +28,23 @@ Technology
     - If it can't happen, use assertions to ensure that it won't
 
 * Steve McConnel. Code Complete, Second Edition, 2009.
+  - Chapter 5 Design in Construction
+    - Tacoma bridge - only by building the bridge could they learn about the additional consideration in the problem that allowed them build another bridge that still stands
+    - Minimize the amount of a program you have to think about at any one time (think of 'mental' juggling) - more balls, more errors
+    - Think of a maintenance programmer as your audience, and design the system to be self-explanatory
+    - System level diagram (of components like user interface, application level classes, databases, etc) should be an acyclic graph
+    - One attribute of great designers - anticipating change.
+    - Avoid semantic coupling e.g., module A 'knows' module B's inner workings.
+
   - Chapter 23 Debugging
     - debugging occupies 50% of time of total development time
-    - roughly 20x difference in time between experienced and inexperienced programmars to find bugs
+    - roughly 20x difference in time between experienced and inexperienced programmers to find bugs
     - improving quality reduces development cost -> they are not trade-off
     - it is your best interests to assume an error is your fault
-    - Scientific method for debugging: gathar data through experiment, hypothesize, prove / disprove
+    - Scientific method for debugging: gather data through experiment, hypothesize, prove / disprove
     - Classes that have defects before are likely to continue to have defects
     - "Confessional debugging" - try to explain to someone else and the problems will be solved on its own
-    - Take a break when you start feeling anxiety - let your subconsious mind tease out a problem
+    - Take a break when you start feeling anxiety - let your subconscious mind tease out a problem
     - Rewrite a bad code (e.g., in 30mins) rather than debugging it (could take two hours)
     - Understand the problem before you fix it.
     - Achieve a global (or at least, a few hundred lines around) understanding of program rather than focusing it locally
