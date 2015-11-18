@@ -48,8 +48,17 @@ Work
         -
     - Chapter 19
         - Write a blog to market yourself. Blog should be your home base. Great example: http://www.smartpassiveincome.com/
+    - Chapter 20
+        - What is the central message that represents your 'brand?' Consistency is the key.
     - Chapter 26
         - Don't be afraid to look like an idiot - do you even remember the last time someone 'biffed' it? Go out and do something that scares you.
+    - Chapter 27
+        - We all tend to learn best by doing and teaching.
+    - Chapter 28
+        - Reading a book cover to cover is better suited for reference, not learning.
+        - Learn, do, learn, teach (LDLT)
+    - Chapter 29
+        - Define success - set specific goals (e.g., not 'learn HTML' - but 'create your own website with resume using HTML5')
     - Chapter 36
         - Focus is key to productivity (think of a car running on a highway). Focus has its own kind of momentum. Get over the initial pain and discomfort. Survive first 5 or 10 minutes.
     - Chapter 37
@@ -74,7 +83,8 @@ Work
     - Chapter 47
         - the work that we consider hard is the work that's most likely benefit us. It's the work that's most likely to advance our careers or open up new opportunities. Hard work is boring.
     - Chapter 48
-        - 
+        - Nothing is more deadly to your productivity than failing to take action. Few people regret actions they took, but many people regret not taking action.
+
 
 * Brian Tracy. Eat That Frog!
     - People that look smarter than you are just doing things differently.
