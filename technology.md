@@ -36,6 +36,15 @@ Technology
     - One attribute of great designers - anticipating change.
     - Avoid semantic coupling e.g., module A 'knows' module B's inner workings.
 
+  - Chapter 20 The Software-Quality Landscape
+    - Catch problems at the "lowest-value" stage (unit tests, reviews, rather than production)
+    - Prototyping can lead to better designs, better matches with user needs, and improved maintainability.
+    - No single technique achieves >75% defect detection rate - developers need use a combination of techniques.
+    - Variety of errors people found was so great - having two independent groups almost doubles the defects detected.
+    - Inspections (code reviews) are several times cost-effective than testing.
+    - The best way to improve productivity and quality is to reduce the time spent reworking code (requirement change, design change, or debugging)
+        - The single biggest activity is debugging and correcting code that doesn't work properly
+
   - Chapter 23 Debugging
     - debugging occupies 50% of time of total development time
     - roughly 20x difference in time between experienced and inexperienced programmers to find bugs
@@ -58,6 +67,17 @@ Technology
     - Keep 'parking lots' - list of things you noticed during refactoring but not doing right now
     - Targeting error-prone modules which everyone is afraid of is an effective strategy
 
+  - Chapter 33 Personal Character
+    - If you want to be great, you are responsible for making yourself great.
+    - Study after study found 10 to 1 difference in speed (of programming and debugging), number of errors.
+    - The purpose of many good programming practices to reduce the load on your brain.
+    - Humble programmers who compensate for their fallibilities write code that's easier to understand and has fewer errors.
+    - Find code written by superior programmers and read it.
+    - Programming is only 15 percent communicating with the computer and 85 percent communicating with people.
+    - Feeling tempted to compile a program to "see what happens" is a warning sign.
+    - It's often better to give up on the error after a certain amount of time (say 15 minutes) with no progress - then think differently.
+    - The value of 'hands-on' experience is small - 'five years of C programming experience' is a silly statement - If a programmer hasn't learned C after a year or two, the next three years won't make much difference.
+    - When you first learn something, learn it the right way - this forms good habits.
 
 * David Beazley and Brian K. Jones. Python Cookbook, Third Edition, 2013.
   - Chapter 1
