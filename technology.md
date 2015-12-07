@@ -12,7 +12,7 @@ Technology
   - Chapter 2
     - Programmers are constantly in maintenance mode. Maintenance is not a discrete activity, but a routine part of the entire development process.
     - Orthogonality - If I dramatically change the requirements behind a particular function, how many modules are affected? The answer should be one.
-    - Prototyping generates dispoable code. Tracer code is lean but complete, and forms part of the skeleton of the final system.
+    - Prototyping generates disposable code. Tracer code is lean but complete, and forms part of the skeleton of the final system.
     - What to say when asked for an estimate - 'I'll get back to you'
   - Chapter 3
     - Keep knowledge in plain text
@@ -78,6 +78,15 @@ Technology
     - It's often better to give up on the error after a certain amount of time (say 15 minutes) with no progress - then think differently.
     - The value of 'hands-on' experience is small - 'five years of C programming experience' is a silly statement - If a programmer hasn't learned C after a year or two, the next three years won't make much difference.
     - When you first learn something, learn it the right way - this forms good habits.
+
+* Clean Code
+  - 17 Smells and Heuristics
+    - When you see commented-out code, delete it!
+    - Functions should have a small number of arguments --- more than three is very questionable.
+    - Boolean arguments loudly declare that the function does more than one thing.
+    - Prefer non-static methods to static methods (make sure that there is no chance that you'll want it to behave polymorphically.)
+    - Make sure you understand how algorithms/functions work before. It is not good enough that it passes all the tests. You must know that the solution is correct.
+    - Exhaustively test near bugs - bugs tend to congregate.
 
 * David Beazley and Brian K. Jones. Python Cookbook, Third Edition, 2013.
   - Chapter 1

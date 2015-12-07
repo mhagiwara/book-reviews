@@ -59,6 +59,10 @@ Work
         - Learn, do, learn, teach (LDLT)
     - Chapter 29
         - Define success - set specific goals (e.g., not 'learn HTML' - but 'create your own website with resume using HTML5')
+    - Chapter 30
+        - LDLT - learn, do, learn, teach. After learning enough to get started, play around to know what's important.
+        - You only need to be one step ahead of someone to teach them.
+        - When you start teaching, you'll find there are many things that you thought you understood that you didn't. 
     - Chapter 36
         - Focus is key to productivity (think of a car running on a highway). Focus has its own kind of momentum. Get over the initial pain and discomfort. Survive first 5 or 10 minutes.
     - Chapter 37
