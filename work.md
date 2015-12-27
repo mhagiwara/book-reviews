@@ -50,6 +50,14 @@ Work
         - Write a blog to market yourself. Blog should be your home base. Great example: http://www.smartpassiveincome.com/
     - Chapter 20
         - What is the central message that represents your 'brand?' Consistency is the key.
+    - Chapter 21
+        - Every software developer should invest in creating a blog - good for career, networking, learning, communicating.
+        - Key to a successful blogger: consistency (frequency). Quality matters too.
+    - Chapter 22
+        - Give away 90% of what you do for free. How is it helping others? How is it helping others solve their own problems?
+    - Chapter 23
+        - Use a scheduled posting tool to avoid spending too much time on social media.
+        - Use LinkedIn's endorsement more!
     - Chapter 26
         - Don't be afraid to look like an idiot - do you even remember the last time someone 'biffed' it? Go out and do something that scares you.
     - Chapter 27
@@ -62,7 +70,7 @@ Work
     - Chapter 30
         - LDLT - learn, do, learn, teach. After learning enough to get started, play around to know what's important.
         - You only need to be one step ahead of someone to teach them.
-        - When you start teaching, you'll find there are many things that you thought you understood that you didn't. 
+        - When you start teaching, you'll find there are many things that you thought you understood that you didn't.
     - Chapter 36
         - Focus is key to productivity (think of a car running on a highway). Focus has its own kind of momentum. Get over the initial pain and discomfort. Survive first 5 or 10 minutes.
     - Chapter 37
