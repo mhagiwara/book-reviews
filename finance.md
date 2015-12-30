@@ -17,6 +17,17 @@ FInance
   - Advice: own your own home if you an possibly afford it
   - If you do want to pick stocks yourself, I strongly suggest a mixed strategy: Index the core of your portfolio, and try the stock-picking game for the money you can affort to put at somewhat greater risk.
 
+* Michael J. Mauboussin: More Than You Know: Finding Financial Wisdom in Unconventional Places, Columbia University Press, 2007.
+    - In any probabilistic field,  you're better off focusing on the decision-making process than on the short-term outcome.
+    - You simply cannot judge results in a probabilistic system over the short term because there is way too much randomness.
+    - Attributes of successful active funds: low turnover, high concentration (top 10 holdings > 35%), intrinsic value investment approach.
+    - The frequency of correctness does not matter; it is the magnitude of correctness that matters.
+    - Investing is much more favorable than other games of probability (you don't have to bet when the situation is not attractive)
+    - A shift from attribute- to circumstance-based thinking can be of great help to investors and managers.
+    - stock price change distribution has 'fat tails' - extreme-return days play a much more significant role in the market's total returns
+    - the more frequently we evaluate our portfolios, the more likely we are to see losses and hence suffer from loss aversion.
+
+
 * McConnel, Brue, Flynn. Economics. 18th edition. McGrawHill. 2008.
   - Chapter 1:
     - economics is the social science concerned with how individuals, institutions, and society make optimal hoises under conditions of scarcity.
