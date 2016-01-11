@@ -58,6 +58,10 @@ Work
     - Chapter 23
         - Use a scheduled posting tool to avoid spending too much time on social media.
         - Use LinkedIn's endorsement more!
+    - Chapter 24
+        - Presentations - start by giving talks at your own workplace.
+    - Chapter 25
+        - You don't write a book to make money.
     - Chapter 26
         - Don't be afraid to look like an idiot - do you even remember the last time someone 'biffed' it? Go out and do something that scares you.
     - Chapter 27
@@ -96,7 +100,14 @@ Work
         - the work that we consider hard is the work that's most likely benefit us. It's the work that's most likely to advance our careers or open up new opportunities. Hard work is boring.
     - Chapter 48
         - Nothing is more deadly to your productivity than failing to take action. Few people regret actions they took, but many people regret not taking action.
-
+    - Chapter 49
+        - To everybody getting a car loan - what would you do with the same many lying around in cash (e.g., $20,000)?
+        - Assets are something that has a higher utility value than what its maintenance cost is. (e.g., a house that is more othan you need.)
+    - Chapter 50
+        - Salary negotiation - how you got the job is important (cold applying < referral < reaching out).
+        - The first person to name a number is at a distinct disadvantage.
+    - Chapter 51
+        - Understanding options - an option to buy/sell an underlying asset at a specified price.
 
 * Brian Tracy. Eat That Frog!
     - People that look smarter than you are just doing things differently.
