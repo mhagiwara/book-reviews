@@ -108,6 +108,12 @@ Work
         - The first person to name a number is at a distinct disadvantage.
     - Chapter 51
         - Understanding options - an option to buy/sell an underlying asset at a specified price.
+    - Chapter 52
+        - Recommendation: rental properties to generate stable rents. Leverage on mortgage. Hedge against inflation.
+        - Use property management company (don't manage a rental property yourself.)
+    - Chapter 56
+        - Benefit of staying healthy - confidence, which is a better predictor of success than talent.
+        - Walking enhances your creativity by 60%
 
 * Brian Tracy. Eat That Frog!
     - People that look smarter than you are just doing things differently.
