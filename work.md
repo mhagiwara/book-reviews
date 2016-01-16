@@ -114,6 +114,10 @@ Work
     - Chapter 56
         - Benefit of staying healthy - confidence, which is a better predictor of success than talent.
         - Walking enhances your creativity by 60%
+    - Chapter 57
+        - Set a measurable fitness goal.
+    - Chapter 58
+    -
 
 * Brian Tracy. Eat That Frog!
     - People that look smarter than you are just doing things differently.
