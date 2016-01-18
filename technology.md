@@ -26,6 +26,8 @@ Technology
     - Liskov substitution principal - subclasses must be usable through the base class interface without the need for the user to know the difference
     - Dead programs tell no lies - crash early
     - If it can't happen, use assertions to ensure that it won't
+  - Chapter 5
+    - Studies have shown [BBM96] that classes in C++ with larger response sets are more prone to error than classes with smaller response sets (a response set is defined to be the number of functions directly invoked by methods of the class).
 
 * Steve McConnel. Code Complete, Second Edition, 2009.
   - Chapter 5 Design in Construction
