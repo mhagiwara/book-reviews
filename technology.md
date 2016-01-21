@@ -28,6 +28,12 @@ Technology
     - If it can't happen, use assertions to ensure that it won't
   - Chapter 5
     - Studies have shown [BBM96] that classes in C++ with larger response sets are more prone to error than classes with smaller response sets (a response set is defined to be the number of functions directly invoked by methods of the class).
+  - Chapter 6
+    - Don't just test your code, test your assumptions. Use assertions.
+    - Building software is more like gardening than construction.
+    - "Refactor early, refactor often." - now is the easiest time to refactor. Later there will be more constraints.
+    - Don't try to refactor and add functionality at the same time. Make sure you have good tests. Take short steps.
+
 
 * Steve McConnel. Code Complete, Second Edition, 2009.
   - Chapter 5 Design in Construction
