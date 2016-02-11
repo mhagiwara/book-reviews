@@ -75,6 +75,9 @@ Work
         - LDLT - learn, do, learn, teach. After learning enough to get started, play around to know what's important.
         - You only need to be one step ahead of someone to teach them.
         - When you start teaching, you'll find there are many things that you thought you understood that you didn't.
+    - Chapter 31
+        - Find a mentor, preferably in your network, or in your company. Use local community groups (e.g., meetup)
+        - Offer free work in exchange for mentoring.
     - Chapter 36
         - Focus is key to productivity (think of a car running on a highway). Focus has its own kind of momentum. Get over the initial pain and discomfort. Survive first 5 or 10 minutes.
     - Chapter 37
@@ -117,7 +120,9 @@ Work
     - Chapter 57
         - Set a measurable fitness goal.
     - Chapter 58
-    -
+    - Chapter 59
+        - Don't reward yourself (e.g., buying you a pair of brand new running shoes) until the work is really done
+
 
 * Brian Tracy. Eat That Frog!
     - People that look smarter than you are just doing things differently.
