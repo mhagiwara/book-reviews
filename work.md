@@ -78,6 +78,12 @@ Work
     - Chapter 31
         - Find a mentor, preferably in your network, or in your company. Use local community groups (e.g., meetup)
         - Offer free work in exchange for mentoring.
+    - Chapter 32
+        - Mentor someone - you only need to be a step ahead of somebody else. Again, the best way to learn is to teach!
+    - Chapter 33
+        - Part of the requirement of becoming an expert is teaching.
+        - Teaching forces you to confront all the areas in your own knowledge that aren't deep enough to be able to adequately explain them to another person.
+        - Write a blog, give presentations at local community or inside the company.
     - Chapter 36
         - Focus is key to productivity (think of a car running on a highway). Focus has its own kind of momentum. Get over the initial pain and discomfort. Survive first 5 or 10 minutes.
     - Chapter 37
