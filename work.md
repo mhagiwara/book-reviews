@@ -84,6 +84,10 @@ Work
         - Part of the requirement of becoming an expert is teaching.
         - Teaching forces you to confront all the areas in your own knowledge that aren't deep enough to be able to adequately explain them to another person.
         - Write a blog, give presentations at local community or inside the company.
+    - Chapter 34
+        - Getting a degree while you have a job - cheaper, no-debt, and employer could pay
+    - Chapter 35
+        - Find holes in your knowledge - what are you spending the most amount of time on?
     - Chapter 36
         - Focus is key to productivity (think of a car running on a highway). Focus has its own kind of momentum. Get over the initial pain and discomfort. Survive first 5 or 10 minutes.
     - Chapter 37
