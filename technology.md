@@ -33,7 +33,13 @@ Technology
     - Building software is more like gardening than construction.
     - "Refactor early, refactor often." - now is the easiest time to refactor. Later there will be more constraints.
     - Don't try to refactor and add functionality at the same time. Make sure you have good tests. Take short steps.
-
+  - Chapter 7
+    - Simple technique for getting inside users' requirements: become a user.
+    - Don't think outside the box - find the box. Enumerate all the possible solutions. Why doesn't it work? Can you prove it? (e.g., Trojan horse)
+  - Chapter 8
+    - Generate a brand. Come up with a name for a project, ideally something off-the-wall.
+    - Test early. Test often. Test automatically.
+    - Use saboteurs to test your testings. Introduce a bug deliberately and check if the tests complain.
 
 * Steve McConnel. Code Complete, Second Edition, 2009.
   - Chapter 5 Design in Construction
