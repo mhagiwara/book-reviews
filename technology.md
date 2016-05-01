@@ -1,5 +1,17 @@
 Technology
 ----------
+* Michael Feathers. Working Effectively with Legacy Code.
+    - Chapter 1
+        - Preserving existing behavior is one of the largest challenges in software development.
+    - Chapter 2
+        - Don't 'Edit and Pray.' Instead, 'Cover and Modify.'
+        - Good unit tests 1) run fast and 2) help us localize problems. Don't talk to DB, files, or networks.
+    - Chapter 3
+        - Sensing - accessing the value our code computes, and Separation - getting a piece of code to run
+        - Fake objects (e.g., creating FakeDisplay instead of real display hardware, that has a 'getLastLine' method)
+        - Mock objects - fake objects that perform assertions internally.
+
+
 * Andrew Hunt and David Thomas. Pragmatic Programmer.
   - Kaizen applies to individuals too. Refine the skills and add new tools.
   - Chapter 1
