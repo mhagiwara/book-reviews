@@ -10,6 +10,10 @@ Technology
         - Sensing - accessing the value our code computes, and Separation - getting a piece of code to run
         - Fake objects (e.g., creating FakeDisplay instead of real display hardware, that has a 'getLastLine' method)
         - Mock objects - fake objects that perform assertions internally.
+    - Chapter 4
+        - Seam - a place where you can alter behavior in your program without editing in that place.
+        - Object seam - subclass a class in the production code and override various methods of the class.
+        - Link seams - a place where you can alter behavior by linking to a (mock, with sensing) library.
 
 
 * Andrew Hunt and David Thomas. Pragmatic Programmer.
