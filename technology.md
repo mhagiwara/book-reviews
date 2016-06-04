@@ -1,5 +1,16 @@
 Technology
 ----------
+* Frederick P. Brooks Jr. The Mythical Man-Month.
+    - Chapter 1
+        - Programming -> programming product (generalized, tested) )/ programming system (integrated)
+        - Programs have to be perfect - adjusting to it is the most difficult part of learning to program.
+        - "The challenge and the mission are to find real solutions to real problems with available resources."
+    - Chapter 2
+        - Men and months are interchangeable commodities only when a task can be partitioned among many workers with no communication between them.
+            - counterexample: woman bearing a child always takes 9 months.
+        - 
+
+
 * Michael Feathers. Working Effectively with Legacy Code.
     - Chapter 1
         - Preserving existing behavior is one of the largest challenges in software development.
@@ -65,6 +76,8 @@ Technology
     - System level diagram (of components like user interface, application level classes, databases, etc) should be an acyclic graph
     - One attribute of great designers - anticipating change.
     - Avoid semantic coupling e.g., module A 'knows' module B's inner workings.
+  - Chapter 6 Working Classes
+    -  [TO READ AGAIN]
 
   - Chapter 20 The Software-Quality Landscape
     - Catch problems at the "lowest-value" stage (unit tests, reviews, rather than production)
