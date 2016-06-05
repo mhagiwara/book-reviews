@@ -8,7 +8,10 @@ Technology
     - Chapter 2
         - Men and months are interchangeable commodities only when a task can be partitioned among many workers with no communication between them.
             - counterexample: woman bearing a child always takes 9 months.
-        - 
+        - 33% planning, 16% coding, 25% component test, 25% system test.
+        - 'Adding manpower to a late software project makes it later.'
+    - Chapter 3
+        - Each segment of a large job be tackled by a team, but that team must be organized like a surgical team.
 
 
 * Michael Feathers. Working Effectively with Legacy Code.
