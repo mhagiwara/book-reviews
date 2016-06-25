@@ -2,7 +2,7 @@ Technology
 ----------
 * Frederick P. Brooks Jr. The Mythical Man-Month.
     - Chapter 1
-        - Programming -> programming product (generalized, tested) )/ programming system (integrated)
+        - Programming -> programming product (generalized, tested) / programming system (integrated) -> programming system product
         - Programs have to be perfect - adjusting to it is the most difficult part of learning to program.
         - "The challenge and the mission are to find real solutions to real problems with available resources."
     - Chapter 2
@@ -12,6 +12,15 @@ Technology
         - 'Adding manpower to a late software project makes it later.'
     - Chapter 3
         - Each segment of a large job be tackled by a team, but that team must be organized like a surgical team.
+    - Chapter 4
+        - Conceptual integrity is the most important consideration in systems design. -> systems design must proceed from one mind, or a ver small number of resonant minds.
+    - Chapter 5
+        -
+    - Chapter 6
+        -
+    - Chapter 7 Why did the tower of Babel fail?
+        - communication and organization
+        - How to reduce the amount of communication - division of labor and specialization of function
 
 
 * Michael Feathers. Working Effectively with Legacy Code.
