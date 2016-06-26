@@ -1,5 +1,22 @@
 Technology
 ----------
+
+*  Richard Blum and Christine Bresnahan. Linux Command Line and Shell Scripting Bible, Wiley 2015.
+    - Chapter 1 Introduction
+        - Linux Kernel <-> GNU System Utilities <-> Application Software
+        - Linus Torvalds put his 'copy' of Unix kernel and solicited suggestions on the internet
+        - Swapping out - moving memory pages that have not been accessed for a period of time to the swap space
+        - 'init process' starts all the other processes
+        - Run levels are used to control which processes to run by the init system
+        - Kernel modules are a way to add device drivers without compiling Linux Kernel
+        - Three classifications of device files: character (e.g., terminal), block (e.g., disk), and network.
+        - GNU - developed a complete set of unix utilities, but usually run on Linux kernel
+        - X.org - provides open source implementation of X Window System
+        - Many of the specialized Linux distributions (e.g., Ubuntu, Linux Mint) are based on Debian.
+    - Chapter 2
+        -
+
+
 * Frederick P. Brooks Jr. The Mythical Man-Month.
     - Chapter 1
         - Programming -> programming product (generalized, tested) / programming system (integrated) -> programming system product
