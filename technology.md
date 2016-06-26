@@ -15,6 +15,11 @@ Technology
         - Many of the specialized Linux distributions (e.g., Ubuntu, Linux Mint) are based on Debian.
     - Chapter 2
         -
+    - Chapter 3
+        - /var 'variable' - for files that change frequently, such as log files
+        - File name wildcards - [a-i] character range, [!a] character 'not'.
+        - Show inode numbers by 'ls -i' (soft links are different files, hard links are the same)
+        - Query file type by 'file' command
 
 
 * Frederick P. Brooks Jr. The Mythical Man-Month.
