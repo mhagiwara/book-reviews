@@ -20,6 +20,17 @@ Technology
         - File name wildcards - [a-i] character range, [!a] character 'not'.
         - Show inode numbers by 'ls -i' (soft links are different files, hard links are the same)
         - Query file type by 'file' command
+    - Chapter 4
+        - ps command - historically two versions (BSD style params and Linux ones) - now merged to one
+        - (not available on Mac because Linux and Mac differ in a way how to expose process info.)
+        - grep command - by default uses Unix-style regex (use egrep for POSIX extended regex)
+        - kill command - by default sends a TERM ('terminate if possible') signal
+    - Chapter 7
+        - Now every process that runs in background has its own account.
+        - Linux reserves UIDs below 500 for system accounts. (for normal users, UIDs start from 500)
+        - most Linux systems holds passwords under /etc/shadow (only login can access)
+        - System copies contents of /etc/skel to user's HOME directory
+        - touch command creates a (empty) file using the default permission (which can be set by umask command)
 
 
 * Frederick P. Brooks Jr. The Mythical Man-Month.
