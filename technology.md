@@ -25,12 +25,19 @@ Technology
         - (not available on Mac because Linux and Mac differ in a way how to expose process info.)
         - grep command - by default uses Unix-style regex (use egrep for POSIX extended regex)
         - kill command - by default sends a TERM ('terminate if possible') signal
+    - Chapter 5
+        - Default system shell (usually /bin/sh) used for running system shell scripts
+        - Encase a list of commands in parentheses -> a process list (executed in a subshell)
     - Chapter 7
         - Now every process that runs in background has its own account.
         - Linux reserves UIDs below 500 for system accounts. (for normal users, UIDs start from 500)
         - most Linux systems holds passwords under /etc/shadow (only login can access)
         - System copies contents of /etc/skel to user's HOME directory
         - touch command creates a (empty) file using the default permission (which can be set by umask command)
+    - Chapter 8
+        - A journaling file system writes changes to a temporary file (journal first), then clear it after the data is committed to the physical device.
+        - XFS filesystem uses the writeback mode of journaling, supports online resizing of the filesystem
+        - Logical volume manager (LVM) lets you dynamically add space over multiple physical partitions.
 
 
 * Frederick P. Brooks Jr. The Mythical Man-Month.
