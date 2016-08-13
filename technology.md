@@ -1,6 +1,16 @@
 Technology
 ----------
 
+* David M Diez, et al. OpenIntro Statistics (Third Edition)
+    - Chapter 1 Introduction to data
+        - nominal (categorical variable) and ordinal (categorical variable with ordering) variables
+        - associated variables = dependent variables (no association = independent)
+        - beware of 'non-response bias' for surveys, as well as convenience sample (bias towards accessibility)
+        - confounding variable - correlated with both the explanatory and response variables.
+        - Stratified sampling - group the population into strata, then sample from each stratum.
+        - blocking - split into blocks based on a variable, random sample from each block to randomize the effects
+        -
+
 *  Richard Blum and Christine Bresnahan. Linux Command Line and Shell Scripting Bible, Wiley 2015.
     - Chapter 1 Introduction
         - Linux Kernel <-> GNU System Utilities <-> Application Software
@@ -28,6 +38,10 @@ Technology
     - Chapter 5
         - Default system shell (usually /bin/sh) used for running system shell scripts
         - Encase a list of commands in parentheses -> a process list (executed in a subshell)
+    - Chapter 6
+        - 'export' command - export local variable to the global environment.
+        - zsh startup files: .zshenv is sourced in all invocations of the whell, while .zshrc is sourced in interactive shells.
+        - Defining an array variable e.g., mytest=(one two three four five)
     - Chapter 7
         - Now every process that runs in background has its own account.
         - Linux reserves UIDs below 500 for system accounts. (for normal users, UIDs start from 500)
