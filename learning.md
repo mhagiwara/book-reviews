@@ -1,0 +1,45 @@
+* Barbara Oakley. A Mind For Numbers, Penguin Group LLC, 2014.
+      - Brain works on a problem if you try hard to solve it before falling asleep.
+      - "The harder you push your brain to come up with something creative, the less creative your ideas will be."
+      - Procrastination only leaves you superficial focused-mode learning.
+      - Brain uses two different modes: focused/diffuse
+      - Deliberately switch to diffuse mode: nap, walk, bus, bath, bed
+      - "Start early on your assignments and, unless you are really enjoying what you are doing, keep your working sessions short." (as if muscles need time to rest)
+      - Don't let things go untouched for longer than a day. Work in small doses, a little every day
+      - Dream about what you are studying
+      - "The best predictor of how many creative works we produce in our lifetime is ... the number of works we produce."
+      - Facebook motto: "What would you do if you weren't afraid?"
+      - Best language programs (like Defence Language Institute) incorporates both focused mode and diffuse mode
+      - "Recalling" the material is far more effective than simply rereading the material.
+      - Interleave mixture of different kinds of problems. Avoid overlearning (waste of time).
+      - On procrastination "The dread of doing a task uses up more time and energy than doing the task itself."
+      - Focus on process instead of product.
+      - "Testing effect" - Testing in itself is a powerful learning experience.
+      - Special place devoted just to working is particularly helpful for avoiding procrastination.
+      - Plan your quitting time (time to go home)
+      - "Willpower is a lot like muscle. You have to use your muscles to strengthen and develop them over time. But at any given time, your muscles have only so much energy available."
+      - Regular exercise (both aerobic and resistance) can make a substantive improvement in your memory and learning abilities.
+      - Take pride in who you are, especially in the qualities that make you "different," and use them as a secret talisman for success.
+      - The number of acquaintances you have - not the number of good friends - predicts your access to the latest ideas as well as your success on the job market.
+      - When taking a test, start with the hard problem, but quickly jump to the easy ones.
+      - Shift your thinking from "this test has made me afraid" to "this test has got me excited to do my best!" improves the performance.
+      -
+
+* Understanding Second Language Acquisition
+    - Chapter 7 - Foreign Language Aptitude
+        - Contrasting examples: Julie (picked up Arabic in 2.5 years) vs Wes (struggled with English even after 3+ years)
+        - Aptitude and motivation - researched most in the SAL community
+        - MLAT (Modern Language Aptitude Test) - successful in predicting language learning rate in formal settings
+        - Test three cognitive abilities: grammatical sensitivity, phonetic coding ability and
+        - MLAT criticisms: 1) focus of memory component on rote memorization (vs dynamic memory models) 2) modern SLA is interested in highest attainable proficiency, and various learning conditions (implicit vs explicit)
+        - intelligence, first language ability, and foreign language ability overlap, but are sufficiently different from one another
+        - Dufva et al. 2011: phonological memory -> L1 phonological awareness + attained L2 (English) proficiency
+        - Case studies on individuals with colossal foreign language talents: exceptional verbal memory abilities
+        - Listening proficiency in L2 correlates with recall of L2 words in passages (r = 0.57) and repetition of exact same sentences
+        - After a threshold size of vocabulary, vocabulary learning is boosted not by memory capacity but by existing L2 mental lexicon
+        - 'good memory helps vocabulary learning in the beginning and grammar learning later on' (suggested by O'Brien et al 2006)
+        - Aptitude (analytical ability) matters gradually more as starting age is older.
+        - Mixed empirical evidence on: if aptitude matters for implicit learning, explicit learning, or both.
+        - Interactions of aptitude with other variables (motivation, attention, etc.)
+        - Aptitude-treatment interaction research: placing students into audiolingualims/audiovisualism courses based on their MLAT phonetic coding ability scores (statistically significant)
+        -
