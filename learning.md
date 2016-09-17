@@ -43,3 +43,40 @@
         - Interactions of aptitude with other variables (motivation, attention, etc.)
         - Aptitude-treatment interaction research: placing students into audiolingualims/audiovisualism courses based on their MLAT phonetic coding ability scores (statistically significant)
         -
+    - Chapter 8 -
+        - Attitude / Motivation Test Battery (AMTB) with three dimensions: effort, enjoyment, investment
+        - Integrativeness (a genuine interest in learning the second language in order to come closer to the other language community.) - later attracted criticisms for being too narrow
+        - Antecedents investigated in L2 motivational research: attitude towards the L2 community, integrativeness, attitude towards instructional settings, orientations, social support, inter-group contact, ethnovitality ('sociopolitical presence of the language in the community'), self-confidence when using the language
+        - Orientation (reason): instrumental (e.g., jobs), knowledge, travel, friendship, integrative
+        - LLOS (Language Learning Orientation Scales; Noels et al. 2000)
+        - (Noels et al. 1999) Environments that are controlling and thwarting self regulation and autonomy erode intrinsic motivation.
+        - Dörnyei's critique: integrativeness might have less power for learners in foreign language learning (EFL) context.
+        - (Clément et al. 1994) Hungarian students: xenophilic orientation instead of friendship orientation. English media orientation.
+        - (Yashima et al. 2004) international posture: interests in international vocation, tendency to approach dissimilar others, and interest in foreign affairs
+        - Students in areas with more tourism (more foreigners) tend to have negative attitudes
+        - (Inbar et al. 2001) study on Hebrew-speaking Israeli children: actually learning the language might develop positive attitudes; motivation was best predicted by the quality of intsruction
+        - Dynamic motivation model: not a generalized trait, but a state trait (Gardner et al. 2004) which changes over time
+        - Dörnyei: L2 Motivational Self System: Ideal L2 Self, Ought-to L2 Self, L2 Learning Experience.
+        - The power of motivation: scores of AMTB explains 9% (r = 0.30) to 16% (r = 0.40) of L2 achievement (e.g., proficiency test scores)
+        - Motivation and outcome are not causal but reciprocal.
+
+
+* Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology
+    - High utility: practice testing and distributed practice
+    - Moderate utility: elaborative interrogation, self-explanation, interleaved practice
+    - Low utility: Summarization, highlighting, keyword mnemonic, imagery use of text learning, and rereading
+    - Four categories for generalizability: materials (e.g., vocabulary, translation equivalents, ...), learning conditions, student characteristics, criterion tasks
+    - 8 Practice testing
+        - vs high stake, administered tests
+        - direct effects: testing enhances retention by triggering elaborative retrieval process.
+        - mediated effects: testing facilitates the encoding of more effective mediators during subsequent restudy opportunities.
+        - most research on cued recall, but free recall, short-answer questions, fill-in-the-blank questions. free recall is most effective.
+        - more practice is better, but with diminishing returns
+        - immediate tests have smaller effects than spaced tests (longer the better)
+        - confirmed effects on various materials (word pairs, text contents, visual/spacial information, etc.)
+        - ease of implementation e.g., flashcards or Cornell note-taking system
+    - 9 Distributed practice
+        - spreading study content over time
+        - (Bahrick, 1979) different groups practiced Spanish translation with different intervals between sessions. 30-day retention was highest if sessions were spaced.
+        - (Cepeda et al. 2008) criterion performance was best when the lag between sessions was approx. 10 - 20% of the desired retention interval (e.g., 5 years -> 6-12 months apart)
+        - (Budé et al. 2011) compared two identical curricula with different time spans (8-week vs 6-month) 6-month group did better on an open-ended test and the final exam
