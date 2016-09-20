@@ -43,7 +43,7 @@
         - Interactions of aptitude with other variables (motivation, attention, etc.)
         - Aptitude-treatment interaction research: placing students into audiolingualims/audiovisualism courses based on their MLAT phonetic coding ability scores (statistically significant)
         -
-    - Chapter 8 -
+    - Chapter 8 - Motivation
         - Attitude / Motivation Test Battery (AMTB) with three dimensions: effort, enjoyment, investment
         - Integrativeness (a genuine interest in learning the second language in order to come closer to the other language community.) - later attracted criticisms for being too narrow
         - Antecedents investigated in L2 motivational research: attitude towards the L2 community, integrativeness, attitude towards instructional settings, orientations, social support, inter-group contact, ethnovitality ('sociopolitical presence of the language in the community'), self-confidence when using the language
@@ -59,6 +59,22 @@
         - Dörnyei: L2 Motivational Self System: Ideal L2 Self, Ought-to L2 Self, L2 Learning Experience.
         - The power of motivation: scores of AMTB explains 9% (r = 0.30) to 16% (r = 0.40) of L2 achievement (e.g., proficiency test scores)
         - Motivation and outcome are not causal but reciprocal.
+    - Chapter 9 - Affect and other individual differences
+        - Eysenck's model of personality: Psychoticism (aggressivity), Extraversion (cortical arounsal), Neurocitism (reactions in the presence of danger) (PEN)
+        - The Myers-Briggs Type Indicator (MBTI) classifies people into 16 personality types
+        - Big Five personality model (measured by NEO Five-Factor Inventory, or NEOFFI)
+        - Voluntary language learners have higher population of I (Intuiting) and T (Thinking), equal split into extraverts and introverts, vs 75:25 split of general population
+        - Verhoeven and Vermeer (2002) Dutch sixth graders showed 'openness to experience' accounted for 15 to 20% of shared variance.
+        - Extraverts and introverts make a different trade-off between speech speed and lexical accuracy under stress.
+        - Krashen: monitor overusers (strongly concerned with accuracy), monitor underusers (strongly oriented towards communication)
+        - Foreign language anxiety: Foreign Language Classroom Anxiety Scale (FLCAS; Horwitz et al. 1986) and Input, Processing and Output Anxiety Scales (IPOAS; MacIntyre and Gardner 1994)
+        - FLCAS and IPOAS negatively correlatd with grades (r = -0.45 to r = -0.60)
+        - Perfectionism is not necessarily bad - concern for having an excellent pronunciation was one of the four best predictors of L2 pronunciation
+        - Anxiety affects L2 confidence in second-language (Canada) and immersion context, while competence affects it in foreign-language settings (Japan).
+        - FDI (Field Dependence/Independence) measured via embedded figures test, correlates with L2 proficiency (r = 0.35) (Chapelle and Green, 1992) - may be related to detecting patterns?
+        - On learning strategies: 'the good language learner' (Naiman et al. 1978)
+        - Types of learning strategies can be determined by course objectives, student motivation, and the task itself.
+        - Self-regulation theory: (Tseng et al. 2006) Self-Regulatory Capacity in Vocabulary Learning Scale (SRCvoc) 
 
 
 * Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology
