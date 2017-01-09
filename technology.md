@@ -1,6 +1,27 @@
 Technology
 ----------
 
+* Eric Seufert. Freemium Economics
+    - Chapter 5 Lifetime Customer Value
+        - Lifetime customer value and the freemium model
+        - LTV = total amount of money a user is expected to spend, adjusted for inflation
+        - Gupta et al. 2006 http://journals.sagepub.com/doi/abs/10.1177/1094670506293810
+        - Customer equity (CE) = aggregate sum of the LTV metrics for all current and future users (mainly for company valuation)
+        - Making use of LTV
+            - LTV provides return on marketing efforts (helps decisions on marketing budget, product development riorities)
+            - Cross-promotion: shift users from one product to another based on their LTV estimates
+            - LTV has two primary components: retention and monetization.
+        - LTV in, LTV out
+            - A user can be evaluated on their way in AND out (actual LTV)
+            - Retaining an existing user is far cheaper than acquiring a new user, and a user with LTV=0 has more value to a new user
+        - Discounting LTV
+             - by a risk-free rate (return on risk-free government bond)
+        - Calculating lifetime customer value
+             - Any LTV calculation = expected lifetime of a user * user's expected revenue per period
+             - Spreadsheet method
+             - Analytics method
+
+
 * David M Diez, et al. OpenIntro Statistics (Third Edition)
     - Chapter 1 Introduction to data
         - nominal (categorical variable) and ordinal (categorical variable with ordering) variables
