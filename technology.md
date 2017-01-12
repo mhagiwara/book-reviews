@@ -2,6 +2,38 @@ Technology
 ----------
 
 * Eric Seufert. Freemium Economics
+    - Chapter 4 Freemium Metrics
+        - Minimal viable metrics
+            - Four high-level categories: retention, engagement, monetization, viralty
+        - Working with metrics in the freemium model
+            - Analytics in a freemium context is contingent on the existence of very large data sets accessible only programmatically
+            - Data analysts' focus shift from product feature optimization and towards product prioritization and management insight.
+            - Report efforts, build dashboards, circulates KPI reports.
+        - The retention profile
+            - Area under the retention curve = total likely lifetime
+            - Retention is best calculated retrospectively (= affect user cohort)
+            - Defining churn = the point past which 80% of users do not return
+        - Monetization
+             - Conversion rate = the percentage of users who convert to revenue
+             - One strategy: don't show users ads until you are sure they don't convert
+             - Viewing ads shouldn't be considered as conversion
+        - Revenue metrics
+            - ARPU - average revenue per user; ARPPU - average revenue per paying user
+            - Daily ARPU = ARPDAU (average revenue per daily active users)
+            - Product catalogue distribution, first purchase distribution
+        - Onboarding funnel
+        - Session metrics
+            - Average/median session length
+            - Daily number of sessions
+        - Net promoter scores
+            - 9, 10 = promoters, 7, 8 = neutral, 1-6 = distractors
+            - Percentage or promoters minus percentage of distractors
+        - Viralty
+            - Viralty hooks, the k-factor
+        - For freemium products, team should work in small iterations at a swift pace
+        - Dashboard design
+            - Balance between scientific and artistic
+        - Analytics as a driver for product development
     - Chapter 5 Lifetime Customer Value
         - Lifetime customer value and the freemium model
         - LTV = total amount of money a user is expected to spend, adjusted for inflation
