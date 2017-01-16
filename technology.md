@@ -52,6 +52,25 @@ Technology
              - Any LTV calculation = expected lifetime of a user * user's expected revenue per period
              - Spreadsheet method
              - Analytics method
+    - Chapter 6 - Freemium monetization
+        - Product catalogue should be composed of not only static, predefined items but also with dynamic items
+        - Continuous monetization curve (plot of LTV over percent of users)
+        - More personalization, meeting the idiosyncratic needs -> higher revenue
+        - Monetization curve is not really continuous (because money is discrete), but should approach continuous form
+        - Non-paying users
+            - NPUs are essential core component of any freemium product's user base
+            - Value of NPUs: data, viral and critical mass (network effects), or 'nightclub effect'
+        - Revenue-based user segments
+            - Whale / dolphin / minnow classification, blue/orca/beluga whales
+            - Can be easily plotted by stacked bar graphs
+            - Wild fluctuations in segments are the sign that monetization curve hasn't reached an optimal level of continuity
+        - Data products
+            - Recommendation engine (suggests new friends)
+            - Dynamic selection of most appropriate products from the product catalog
+        - Downstream marketing
+            - Upstream marketing for growing user base, downstream marketing for reengagement
+            - Reengagement emails, push notifications
+            - Promotions (discounts, time-limited offers, combination offers, volume prices) - can be used to gauge user response (e.g., value buyer?)
 
 
 * David M Diez, et al. OpenIntro Statistics (Third Edition)
